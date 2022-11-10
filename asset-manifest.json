@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/liduhaha/lending_furniture_shop/static/css/main.9c115303.css",
+    "main.js": "/liduhaha/lending_furniture_shop/static/js/main.7dc42bcb.js",
+    "static/media/image.png": "/liduhaha/lending_furniture_shop/static/media/image.88a97bbdbbc5c8555769.png",
+    "static/media/girl.png": "/liduhaha/lending_furniture_shop/static/media/girl.c72ba50814ee7a5a4db5.png",
+    "static/media/2.png": "/liduhaha/lending_furniture_shop/static/media/2.3d60d570a3fa1a2e56b5.png",
+    "static/media/yellow.png": "/liduhaha/lending_furniture_shop/static/media/yellow.3daef38976f312a8910d.png",
+    "static/media/3.png": "/liduhaha/lending_furniture_shop/static/media/3.23bcb2ca591c3c6d4ba9.png",
+    "static/media/image1.png": "/liduhaha/lending_furniture_shop/static/media/image1.02bfa142cf835401252c.png",
+    "static/media/image2.png": "/liduhaha/lending_furniture_shop/static/media/image2.d02dd22df97a6fb5520e.png",
+    "static/media/sec_1.jpeg": "/liduhaha/lending_furniture_shop/static/media/sec_1.6189d4a761599404cfba.jpeg",
+    "static/media/1.png": "/liduhaha/lending_furniture_shop/static/media/1.105cab3a89a1588af706.png",
+    "static/media/6.png": "/liduhaha/lending_furniture_shop/static/media/6.51cb259b1cc04f4ebd55.png",
+    "static/media/image3.png": "/liduhaha/lending_furniture_shop/static/media/image3.e13d6b4604f590bbfea2.png",
+    "static/media/5.png": "/liduhaha/lending_furniture_shop/static/media/5.4f5a3d4d79b4e49ced38.png",
+    "static/media/4.png": "/liduhaha/lending_furniture_shop/static/media/4.32c6d2f17d12bc841714.png",
+    "static/media/9.png": "/liduhaha/lending_furniture_shop/static/media/9.a83689b50bce1c8ed2ec.png",
+    "static/media/green.png": "/liduhaha/lending_furniture_shop/static/media/green.066aab73c72f12824ee6.png",
+    "static/media/7.png": "/liduhaha/lending_furniture_shop/static/media/7.f741a6440ac363ce2fc7.png",
+    "static/media/2.jpeg": "/liduhaha/lending_furniture_shop/static/media/2.98aeea27d935a3178b73.jpeg",
+    "static/media/3.jpeg": "/liduhaha/lending_furniture_shop/static/media/3.24779fe84205dea9e155.jpeg",
+    "static/media/1.jpeg": "/liduhaha/lending_furniture_shop/static/media/1.cc134b8b5dc3f3689153.jpeg",
+    "static/media/arrow.png": "/liduhaha/lending_furniture_shop/static/media/arrow.e7c80d71eb154634677a.png",
+    "index.html": "/liduhaha/lending_furniture_shop/index.html",
+    "main.9c115303.css.map": "/liduhaha/lending_furniture_shop/static/css/main.9c115303.css.map",
+    "main.7dc42bcb.js.map": "/liduhaha/lending_furniture_shop/static/js/main.7dc42bcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c115303.css",
+    "static/js/main.7dc42bcb.js"
+  ]
+}
